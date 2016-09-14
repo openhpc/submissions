@@ -19,7 +19,6 @@ of details including (but not limited to):
 * Open-source license type
 * Software dependencies
 * Availability of test collateral
-* Optional: contact info (email) to receive additional private feedback from TSC review process
 
 Once submitted, a review by members of the TSC will be scheduled during the
 next review cycle with results publicly summarized on the Submissions Wiki
