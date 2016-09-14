@@ -8,8 +8,8 @@ is used to facilitate and track submissions.
 reviewed on a periodic, rolling basis (starting at a minimum of a quarterly
 frequency).  Interested submitters can begin the process by creating a new
 issue on this submission repository (or click
-[here](https://github.com/openhpc/submissions/issues/new) to begin).  An
-overview of the elements required for each submission is shown in an example
+[here](https://github.com/openhpc/submissions/issues/new) to begin).  A
+complete summary of the elements required for each submission is shown in an example
 [issue](https://github.com/openhpc/submissions/issues/1) and includes a variety
 of details including (but not limited to):
 
