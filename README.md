@@ -7,9 +7,11 @@ is used to facilitate and track submissions.
 **Process Overview**: New component requests from community submitters will be
 reviewed on a periodic, rolling basis (at a minimum of a quarterly frequency).
 Interested submitters can begin the process by creating a new issue on this
-submission repository (can click
-[here](https://github.com/openhpc/submissions/issues/new) to begin).  The issue
-creation requests a variety of details including (but not limited to):
+submission repository (or click
+[here](https://github.com/openhpc/submissions/issues/new) to begin).  An
+overview of the elements required for each submission is shown in an example
+[issue](https://github.com/openhpc/submissions/issues/1) and includes 
+a variety of details including (but not limited to):
 
 * Name, public URL
 * Technical overview
