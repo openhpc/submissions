@@ -35,3 +35,4 @@ Accepted components will be scheduled for a future OpenHPC release and
 maintainers will collaborate with submitters as appropriate to finalize the
 integration.
 
+Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
