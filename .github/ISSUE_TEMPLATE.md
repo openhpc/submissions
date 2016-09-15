@@ -100,8 +100,8 @@ If available online, please provide URL.
 Results from the review process will be posted to corresponding GitHub issue
 when available.  If you would like to optionally receive additional private
 feedback, please check the yes box below and send an email to
-submissions@lists.openhpc.community with the corresponding Github Issue #
-created for your submission.
+openhpc-submissions@lists.openhpc.community with the corresponding 
+Github Issue # created for your submission.
 --> 
 
 - [ ] yes
