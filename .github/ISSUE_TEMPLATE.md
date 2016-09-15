@@ -7,9 +7,10 @@ Notes:
 
 (1) Each section begins with "### SectionName" syntax.
 (2) For sections that include pre-defined checkboxes, [ ], please indicate your
-    choice via [x] syntax.
+ choice via [x] syntax.
 (3) Text enclosed in <!-- comment -> syntax provides additional information for
-    certain sections and will not be shown on the resulting issue after submission.
+certain sections and will not be shown on the resulting issue after submission.
+
 -->
 
 ---
