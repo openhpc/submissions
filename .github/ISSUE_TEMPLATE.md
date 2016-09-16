@@ -5,7 +5,7 @@ All sections are required unless marked as (Optional).
 
 Notes:
 
-(1) Each section begins with "### SectionName" syntax.
+(1) Each section begins with "#### SectionName" syntax.
 (2) For sections that include pre-defined checkboxes, [ ], please indicate your
  choice via [x] syntax.
 (3) Text enclosed in <!-- comment -> syntax provides additional information for
