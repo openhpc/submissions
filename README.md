@@ -36,3 +36,5 @@ maintainers will collaborate with submitters as appropriate to finalize the
 integration.
 
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
+
+**Next Submission Deadline**: Monday, September 26th
