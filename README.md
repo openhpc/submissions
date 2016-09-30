@@ -38,4 +38,4 @@ integration.
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
 
 ---
-**Next Submission Deadline**: Monday, September 26th, 2016
+**Next Submission Deadline**: December 4th, 2016
