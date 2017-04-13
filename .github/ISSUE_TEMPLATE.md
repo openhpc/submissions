@@ -16,8 +16,10 @@ certain sections and will not be shown on the resulting issue after submission.
 ---
 #### Software Name
 
+
 ---
 #### Public URL
+
 
 ---
 #### Technical Overview
@@ -27,11 +29,14 @@ provides complimentary functionality to existing OpenHPC components or
 introduces new functionality.
 -->
 
+
 ---
 #### Latest stable version number
 
+
 ---
 #### Open-source license type
+
 
 ---
 #### Relationship to component?
@@ -40,6 +45,7 @@ introduces new functionality.
 - [ ] other
 
 If other, please describe:
+
 
 ---
 #### Build system
@@ -55,10 +61,12 @@ For example: ```make install DESTIR=/tmp/foo``` (or equivalent)
 - [ ] yes
 - [ ] no
 
+
 ---
 #### Does component run in user space or are administrative credentials required?
 - [ ] user space
 - [ ] admin
+
 
 ---
 #### Does component require post-installation configuration.
@@ -68,10 +76,12 @@ For example: ```make install DESTIR=/tmp/foo``` (or equivalent)
 
 If yes, please describe briefly:
 
+
 ---
 #### If component is selected, are you willing and able to collaborate with OpenHPC maintainers during the integration process?
 - [ ] yes
 - [ ] no
+
 
 ---
 #### Does the component include test collateral (e.g. regression/verification tests) in the publicly shipped source?
@@ -80,6 +90,7 @@ If yes, please describe briefly:
 
 If yes, please briefly describe the intent and location of the tests.
 
+
 ---
 #### Does the component have additional software dependencies (beyond compilers/MPI) that are not part of standard Linux distributions?
 - [ ] yes
@@ -87,12 +98,14 @@ If yes, please briefly describe the intent and location of the tests.
 
 If yes, please list the dependencies and associated licenses.
 
+
 ---
 #### Does the component include online or installable documentation?
 - [ ] yes
 - [ ] no
 
 If available online, please provide URL.
+
 
 ---
 #### [Optional]: Would you like to receive additional review feedback by email?
