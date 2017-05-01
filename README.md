@@ -39,4 +39,4 @@ integration. A manifest of currently accepted packages can be found
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
 
 ---
-**Next Submission Deadline**: April 28th, 2017
+**Next Submission Deadline**: August 4th, 2017
