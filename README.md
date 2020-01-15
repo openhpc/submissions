@@ -39,4 +39,4 @@ integration. A manifest of currently accepted packages can be found
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
 
 ---
-**Next Submission Deadline**: December 02, 2019
+**Next Submission Deadline**: March 31, 2020
