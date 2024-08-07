@@ -37,6 +37,3 @@ integration. A manifest of currently accepted packages can be found
 [here](https://github.com/openhpc/ohpc/wiki/Component-List-v3.x).
 
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
-
----
-**Next Submission Deadline**: September 30, 2020
