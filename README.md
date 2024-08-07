@@ -34,7 +34,7 @@ selection notification categorization as follows:
 Accepted components will be scheduled for a future OpenHPC release and
 maintainers will collaborate with submitters as appropriate to finalize the
 integration. A manifest of currently accepted packages can be found 
-[here](https://github.com/openhpc/ohpc/wiki/Component-List-v1.3.3).
+[here](https://github.com/openhpc/ohpc/wiki/Component-List-v3.x).
 
 Additional Questions specific to the submission process? <openhpc-submissions@lists.openhpc.community>.
 
