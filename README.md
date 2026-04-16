@@ -1,8 +1,19 @@
-## OpenHPC Component Submissions
+## :warning: This repository has been archived
 
-The OpenHPC Technical Steering Committee (TSC) welcomes community requests for new
-software additions for integration within future releases, and this repository
-is used to facilitate and track submissions.  
+This repository is no longer accepting new submissions. To request new
+software for inclusion in OpenHPC, please
+[open an issue](https://github.com/openhpc/ohpc/issues) on the main
+repository. Pull requests with tests and documentation are also welcome.
+
+See the [OpenHPC README](https://github.com/openhpc/ohpc#additional-software-requests)
+for more details.
+
+---
+
+## OpenHPC Component Submissions (historical)
+
+The OpenHPC Technical Steering Committee (TSC) previously used this
+repository to facilitate and track new software inclusion requests.
 
 **Process Overview**: New component requests from community submitters will be
 reviewed on a periodic, rolling basis (starting at a minimum of a quarterly
